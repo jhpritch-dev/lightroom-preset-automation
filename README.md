@@ -169,7 +169,7 @@ This project demonstrates several transferable engineering patterns:
 
 ## About
 
-Built by **[John Pritchett](https://github.com/jhpritch-dev)** — AI Infrastructure Engineer and photographer based in Gainesville, FL.
+Built by **[John Pritchard](https://github.com/jhpritch-dev)** — AI Infrastructure Engineer and photographer based in Gainesville, FL.
 
 - 🌐 [theusefuldigital.com](https://theusefuldigital.com)
 - 📸 Canon R5 / R7 shooter
